@@ -1,6 +1,5 @@
 # FastaFile Class
 
-![Tests](https://github.com/yourusername/fastafile-class/actions/workflows/tests.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A Python class for handling FASTA files. This class provides methods for parsing, analyzing, and manipulating sequences in FASTA format. It supports DNA, RNA, and protein sequences.
@@ -97,6 +96,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Thanks to [Python](https://www.python.org/) for making this project possible.
-- Inspired by bioinformatics tools like [Biopython](https://biopython.org/).
+- Thanks to Me
 
