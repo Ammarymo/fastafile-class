@@ -1,4 +1,3 @@
-```markdown
 # FastaFile Class
 
 ![Tests](https://github.com/yourusername/fastafile-class/actions/workflows/tests.yml/badge.svg)
@@ -100,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to [Python](https://www.python.org/) for making this project possible.
 - Inspired by bioinformatics tools like [Biopython](https://biopython.org/).
-```
+
